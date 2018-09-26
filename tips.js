@@ -4,9 +4,9 @@
 const TIPS = [
       {
         "number": "1",
-        "tip_title": "Use a different password for every account.",
-        "headline": "Use a Different Password<br>for Every Account",
-        "summary": "You can't prevent a data breach, but you can limit your exposure by always using different passwords for different websites.",
+        "tip_title": "Folosește o parolă diferită pentru fiecare cont",
+        "headline": "Folosește o parolă diferită<br>pentru fiecare cont",
+        "summary": "Nu poți preveni accesul neautorizat, dar poți preveni expunerea ta dacă folosești parole diferite pentru site-uri diferite.",
       },
       {
         "number": "2",
